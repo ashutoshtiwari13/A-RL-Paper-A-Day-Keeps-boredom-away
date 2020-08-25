@@ -5,7 +5,7 @@
   - Policy Gradient
 2. Exploration
 
-##<a href="#ref1"> 1. Model-Free RL </a>
+## <a href="#ref1"></a> 1. Model-Free RL 
 ### a. Deep Q-Learning
 - Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. Algorithm: DQN. [paper][Summary]
 
