@@ -1,9 +1,9 @@
 # Summaries of Key Papers in Deep RL
 
-1. [Model-Free RL](#1. Model-Free RL)
+1. [Model-Free RL](#1.-Model-Free-RL)
   - Deep Q-Learning
   - Policy Gradient
-2. [Exploration](#2. Exploration)
+2. [Exploration](#2.-Exploration)
 
 ## 
 ## 1. Model-Free RL
