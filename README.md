@@ -1,11 +1,11 @@
 # Summaries of Key Papers in Deep RL
 
-1. [Model-Free RL](){:name= 'ref1'}
+1. [Model-Free RL](#Model-Free RL)
   - Deep Q-Learning
   - Policy Gradient
 2. [Exploration](){:name= 'ref2'}
 
-## <a name= "ref1"></a> 1. Model-Free RL
+## Model-Free RL
 ### a. Deep Q-Learning
 - Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. Algorithm: DQN. [paper][Summary]
 
