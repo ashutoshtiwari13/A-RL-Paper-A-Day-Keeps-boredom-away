@@ -1,19 +1,14 @@
 # Summaries of Key Papers in Deep RL
 
 1. [Model-Free RL](#Model-Free-RL)
-<<<<<<< HEAD
-
-       + Deep Q-Learning
-       + Policy Gradient
-=======
     - Deep Q-Learning
     - Policy Gradient
->>>>>>> 73e369f76818d4af2c925ece1d4b13b0e01bb466
+
 2. [Exploration](#Exploration)
 
 ## Model-Free RL
 ### a. Deep Q-Learning
-- Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. Algorithm: DQN. [[paper]()][[Summary]()]
+- Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. Algorithm: DQN. [[paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/paper1.ipynb)]
 
 
 ### b. Policy Gradient
