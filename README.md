@@ -1,5 +1,5 @@
 # Summaries of Key Papers in Deep RL
-Note: All summaries/insights(found in the Python notebooks) are written keeping in mind the reader is conversant with the basics of RL literature. :bowtie:
+Note: All summaries/insights(found in the Python notebooks) are written keeping in mind the reader is conversant with the basics of RL and standard RL literature. :bowtie:
 
 1. [Model-Free RL](#Model-Free-RL)
     - Deep Q-Learning
