@@ -13,7 +13,7 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 
 - Deep Recurrent Q-Learning for Partially Observable MDPs, Hausknecht and Stone, 2015. **Algorithm: Deep Recurrent Q-Learning**.[[paper](https://arxiv.org/abs/1507.06527)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/paper2.ipynb)]
 
--Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. **Algorithm: Dueling DQN**.[[paper](https://arxiv.org/abs/1511.06581)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/paper3.ipynb)]
+- Dueling Network Architectures for Deep Reinforcement Learning, Wang et al, 2015. **Algorithm: Dueling DQN**.[[paper](https://arxiv.org/abs/1511.06581)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/paper3.ipynb)]
 
 - Deep Reinforcement Learning with Double Q-learning, Hasselt et al 2015. **Algorithm: Double DQN**. [[paper](https://arxiv.org/abs/1509.06461)] [[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/paper4.ipynb)]
 
