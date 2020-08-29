@@ -24,6 +24,8 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 ### b. Policy Gradient
 - Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. **Algorithm: A3C**.[[paper](https://arxiv.org/abs/1602.01783)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Policy%20gradient/paper1.ipynb)]
 
+- Trust Region Policy Optimization, Schulman et al, 2015. Algorithm: TRPO. [[paper](https://arxiv.org/abs/1502.05477)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Policy%20gradient/paper2.ipynb)]
+
 ## Exploration
 
 *Last Updated : 29/8/2020* :heavy_check_mark:
