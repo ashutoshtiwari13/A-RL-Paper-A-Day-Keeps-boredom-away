@@ -22,7 +22,7 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 - Rainbow: Combining Improvements in Deep Reinforcement Learning, Hessel et al, 2017. **Algorithm: Rainbow DQN**. [[paper](https://arxiv.org/abs/1710.02298)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Deep%20Q-learning/paper6.ipynb)]
 
 ### b. Policy Gradient
-- Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. **Algorithm: A3C**.[[paper]()][[Summary]()]
+- Asynchronous Methods for Deep Reinforcement Learning, Mnih et al, 2016. **Algorithm: A3C**.[[paper](https://arxiv.org/abs/1602.01783)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Policy%20gradient/paper1.ipynb)]
 
 ## Exploration
 
