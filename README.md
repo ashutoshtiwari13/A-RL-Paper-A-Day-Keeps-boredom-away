@@ -26,6 +26,8 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 
 - Trust Region Policy Optimization, Schulman et al, 2015. **Algorithm: TRPO**. [[paper](https://arxiv.org/abs/1502.05477)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Policy%20gradient/paper2.ipynb)]
 
+- High-Dimensional Continuous Control Using Generalized Advantage Estimation, Schulman et al, 2015. **Algorithm: GAE**. [[paper](https://arxiv.org/abs/1506.02438)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Policy%20gradient/paper3.ipynb)]
+
 ## Exploration
 
 *Last Updated : 30/8/2020* :heavy_check_mark:
