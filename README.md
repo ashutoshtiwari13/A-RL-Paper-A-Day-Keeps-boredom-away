@@ -30,7 +30,7 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 - High-Dimensional Continuous Control Using Generalized Advantage Estimation, Schulman et al, 2015. **Algorithm: GAE**. [[paper](https://arxiv.org/abs/1506.02438)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Policy%20gradient/paper3.ipynb)]
 
 ### Distributional RL
-- A Distributional Perspective on Reinforcement Learning, Bellemare et al, 2017. **Algorithm: C51**. [[paper](https://arxiv.org/abs/1707.06887)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Distributional%RL/paper1.ipynb)]
+- A Distributional Perspective on Reinforcement Learning, Bellemare et al, 2017. **Algorithm: C51**. [[paper](https://arxiv.org/abs/1707.06887)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Distributional%20RL/paper1.ipynb)]
 
 ## Exploration
 
