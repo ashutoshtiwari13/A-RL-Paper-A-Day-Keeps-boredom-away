@@ -3,7 +3,8 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 
 1. [Model-Free RL](#Model-Free-RL)
     - Deep Q-Learning
-    - Policy Gradient
+    - Policy Gradient (#b.-Policy-Gradient)
+    - Distributional RL (#c.-Distributional-RL)
 
 2. [Exploration](#Exploration)
 
@@ -27,6 +28,9 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 - Trust Region Policy Optimization, Schulman et al, 2015. **Algorithm: TRPO**. [[paper](https://arxiv.org/abs/1502.05477)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Policy%20gradient/paper2.ipynb)]
 
 - High-Dimensional Continuous Control Using Generalized Advantage Estimation, Schulman et al, 2015. **Algorithm: GAE**. [[paper](https://arxiv.org/abs/1506.02438)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Policy%20gradient/paper3.ipynb)]
+
+### c. Distributional RL
+- A Distributional Perspective on Reinforcement Learning, Bellemare et al, 2017. **Algorithm: C51**. [[paper](https://arxiv.org/abs/1707.06887)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Distributional%RL/paper1.ipynb)]
 
 ## Exploration
 
