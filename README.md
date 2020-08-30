@@ -3,8 +3,8 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 
 1. [Model-Free RL](#Model-Free-RL)
     - [Deep Q-Learning](#Deep-Q-Learning)
-    - [Policy Gradient](#Policy Gradient)
-    - [Distributional RL](#Distributional RL)
+    - [Policy Gradient](#Policy-Gradient)
+    - [Distributional RL](#Distributional-RL)
 
 2. [Exploration](#Exploration)
 
