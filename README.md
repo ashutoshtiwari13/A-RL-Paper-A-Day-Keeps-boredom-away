@@ -37,7 +37,6 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 
 ## Exploration
 ### Intrinsic Motivation
-- VIME: Variational Information Maximizing Exploration, Houthooft et al, 2016. **Algorithm: VIME**. [[paper](hhttps://arxiv.org/abs/1710.10044)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Exploration/Intrinsic%20Moivation/paper1.ipynb)]
--
+- VIME: Variational Information Maximizing Exploration, Houthooft et al, 2016. **Algorithm: VIME**. [[paper](https://arxiv.org/abs/1605.09674)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Exploration/Intrinsic%20Moivation/paper1.ipynb)]
 
 *Last Updated : 13/9/2020* :heavy_check_mark:
