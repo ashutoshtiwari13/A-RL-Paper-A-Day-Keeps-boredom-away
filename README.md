@@ -33,6 +33,11 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 - A Distributional Perspective on Reinforcement Learning, Bellemare et al, 2017. **Algorithm: C51**. [[paper](https://arxiv.org/abs/1707.06887)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Distributional%20RL/paper1.ipynb)]
 
 - Distributional Reinforcement Learning with Quantile Regression, Dabney et al, 2017. **Algorithm: QR-DQN**.[[paper](hhttps://arxiv.org/abs/1710.10044)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Distributional%20RL/paper2.ipynb)]
+
+
 ## Exploration
+### Intrinsic Motivation
+- VIME: Variational Information Maximizing Exploration, Houthooft et al, 2016. **Algorithm: VIME**. [[paper](hhttps://arxiv.org/abs/1710.10044)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Distributional%20RL/paper2.ipynb)]
+- 
 
 *Last Updated : 13/9/2020* :heavy_check_mark:
