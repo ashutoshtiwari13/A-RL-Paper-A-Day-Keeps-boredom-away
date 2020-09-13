@@ -39,4 +39,7 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 ### Intrinsic Motivation
 - VIME: Variational Information Maximizing Exploration, Houthooft et al, 2016. **Algorithm: VIME**. [[paper](https://arxiv.org/abs/1605.09674)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Exploration/Intrinsic%20Moivation/paper1.ipynb)]
 
+### Unsupervised RL
+- Variational Intrinsic Control, Gregor et al, 2016. **Algorithm: VIC**.[[paper](https://arxiv.org/abs/1611.07507)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Exploration/Unsupervised%20RL/paper1.ipynb)]
+
 *Last Updated : 13/9/2020* :heavy_check_mark:
