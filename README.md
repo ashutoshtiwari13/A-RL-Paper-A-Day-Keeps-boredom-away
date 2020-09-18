@@ -34,6 +34,8 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 
 - Distributional Reinforcement Learning with Quantile Regression, Dabney et al, 2017. **Algorithm: QR-DQN**.[[paper](hhttps://arxiv.org/abs/1710.10044)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Distributional%20RL/paper2.ipynb)]
 
+### Distributional RL
+
 
 ## Exploration
 ### Intrinsic Motivation
