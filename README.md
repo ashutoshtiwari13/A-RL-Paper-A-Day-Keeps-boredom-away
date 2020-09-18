@@ -8,6 +8,7 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
     - [Policy Gradients with Action-Dependent Baselines](#Policy-Gradients-with-Action-Dependent-Baselines)
 
 2. [Exploration](#Exploration)
+    - [Intrinsic Motivation](#Intrinsic-Motivation)
 
 ## Model-Free RL
 ### Deep Q-Learning
