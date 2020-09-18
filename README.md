@@ -35,7 +35,7 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 - Distributional Reinforcement Learning with Quantile Regression, Dabney et al, 2017. **Algorithm: QR-DQN**.[[paper](hhttps://arxiv.org/abs/1710.10044)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Distributional%20RL/paper2.ipynb)]
 
 ### Policy Gradients with Action-Dependent Baselines
-- Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic, Gu et al, 2016. **Algorithm: Q-Prop**.[[paper](hhttps://arxiv.org/abs/1710.10044)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Distributional%20RL/paper2.ipynb)]
+- Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic, Gu et al, 2016. **Algorithm: Q-Prop**.[[paper](https://arxiv.org/abs/1611.02247)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Model%20Free%20RL/Action%20Dependent%20Baselines/paper1.ipynb)]
 
 ## Exploration
 ### Intrinsic Motivation
