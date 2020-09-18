@@ -9,6 +9,7 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 
 2. [Exploration](#Exploration)
     - [Intrinsic Motivation](#Intrinsic-Motivation)
+    - [Unsupervised RL](#Unsupervised-RL)
 
 ## Model-Free RL
 ### Deep Q-Learning
