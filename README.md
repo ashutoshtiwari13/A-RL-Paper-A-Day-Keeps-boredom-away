@@ -42,4 +42,4 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
 ### Unsupervised RL
 - Variational Intrinsic Control, Gregor et al, 2016. **Algorithm: VIC**.[[paper](https://arxiv.org/abs/1611.07507)][[Summary](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away/blob/master/Exploration/Unsupervised%20RL/paper1.ipynb)]
 
-*Last Updated : 13/9/2020* :heavy_check_mark:
+*Last Updated : 18/9/2020* :heavy_check_mark:
