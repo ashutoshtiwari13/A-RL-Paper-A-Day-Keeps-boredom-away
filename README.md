@@ -5,6 +5,7 @@ Note: All summaries/insights(found in the Python notebooks) are written keeping 
     - [Deep Q-Learning](#Deep-Q-Learning)
     - [Policy Gradient](#Policy-Gradient)
     - [Distributional RL](#Distributional-RL)
+    - [Policy Gradients with Action-Dependent Baselines](#Policy-Gradients-with-Action-Dependent-Baselines)
 
 2. [Exploration](#Exploration)
 
